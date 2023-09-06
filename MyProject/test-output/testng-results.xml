@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-04T15:20:51 IST" name="Default suite" finished-at="2023-09-04T15:23:38 IST" duration-ms="166809">
+    <groups>
+    </groups>
+    <test started-at="2023-09-04T15:20:51 IST" name="Default test" finished-at="2023-09-04T15:23:38 IST" duration-ms="166809">
+      <class name="testCase.TestCase">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:20:51 IST" name="BeforeMethod" finished-at="2023-09-04T15:21:15 IST" duration-ms="23297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="check()[pri:1, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:21:15 IST" name="check" finished-at="2023-09-04T15:21:15 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:21:15 IST" name="afterMethod" finished-at="2023-09-04T15:21:15 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:21:15 IST" name="BeforeMethod" finished-at="2023-09-04T15:21:28 IST" duration-ms="12334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:2, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:21:28 IST" name="verifyLoginWithValidCredentials" finished-at="2023-09-04T15:21:33 IST" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:21:33 IST" name="afterMethod" finished-at="2023-09-04T15:21:34 IST" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:21:34 IST" name="BeforeMethod" finished-at="2023-09-04T15:21:49 IST" duration-ms="15248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyselectDropDown()[pri:3, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:21:49 IST" name="verifyselectDropDown" finished-at="2023-09-04T15:21:56 IST" duration-ms="7199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyselectDropDown -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:21:56 IST" name="afterMethod" finished-at="2023-09-04T15:21:57 IST" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:21:57 IST" name="BeforeMethod" finished-at="2023-09-04T15:22:13 IST" duration-ms="15888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifySearchBar()[pri:4, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:22:13 IST" name="verifySearchBar" finished-at="2023-09-04T15:22:17 IST" duration-ms="4383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBar -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:22:17 IST" name="afterMethod" finished-at="2023-09-04T15:22:17 IST" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:22:17 IST" name="BeforeMethod" finished-at="2023-09-04T15:22:35 IST" duration-ms="17131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyMouseHover()[pri:5, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:22:35 IST" name="verifyMouseHover" finished-at="2023-09-04T15:22:35 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMouseHover -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:22:35 IST" name="afterMethod" finished-at="2023-09-04T15:22:35 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:22:35 IST" name="BeforeMethod" finished-at="2023-09-04T15:22:51 IST" duration-ms="15770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyScrollDown()[pri:6, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:22:51 IST" name="verifyScrollDown" finished-at="2023-09-04T15:22:51 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollDown -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:22:51 IST" name="afterMethod" finished-at="2023-09-04T15:22:51 IST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:22:51 IST" name="BeforeMethod" finished-at="2023-09-04T15:23:24 IST" duration-ms="32200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyScrollUp()[pri:7, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:23:24 IST" name="verifyScrollUp" finished-at="2023-09-04T15:23:25 IST" duration-ms="1103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollUp -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:23:25 IST" name="afterMethod" finished-at="2023-09-04T15:23:25 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:23:25 IST" name="BeforeMethod" finished-at="2023-09-04T15:23:38 IST" duration-ms="12680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyCookiesHandle()[pri:8, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:23:38 IST" name="verifyCookiesHandle" finished-at="2023-09-04T15:23:38 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCookiesHandle -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.TestCase@385c9627]" started-at="2023-09-04T15:23:38 IST" name="afterMethod" finished-at="2023-09-04T15:23:38 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCase.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
